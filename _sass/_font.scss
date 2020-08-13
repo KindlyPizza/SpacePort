@@ -15,9 +15,7 @@
 
 @font-face {
   font-family: 'BillionDreams';
-  font-style: normal;
-  font-weight: 400;
   font-display: auto;
   src: local('BillionDreams'),
-       url('#{$asset_url}/fonts/BillionDreams_PERSONAL.ttf') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$asset_url}/fonts/BillionDreams_PERSONAL.ttf') format('truetype');
 }
