@@ -19,3 +19,11 @@
   src: local('BillionDreams'),
        url('#{$asset_url}/fonts/BillionDreams_PERSONAL.ttf') format('truetype');
 }
+
+/* Retro Computer */
+@font-face {
+  font-family: 'Retro Computer';
+  font-display: auto;
+  src: local('Retro Computer'),
+       url('#{$asset_url}/fonts/Retro Computer.otf') format('truetype'),      
+}
