@@ -12,3 +12,12 @@
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+  font-family: 'BillionDreams';
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: local('BillionDreams'),
+       url('#{$asset_url}/fonts/BillionDreams_PERSONAL.ttf') format('embedded-opentype'), /* IE6-IE8 */
+}
