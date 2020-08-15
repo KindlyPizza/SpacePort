@@ -43,3 +43,10 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
+
+#Post Excerpts
+show_excerpts: true
+excerpt_length: 40
+
+#Hide Search
+hide_search: true
