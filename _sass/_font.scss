@@ -7,12 +7,7 @@
 }
 
 /* Do Hyeon Body Font */
-@font-face {
-  font-family: 'Do Hyeon';
-  font-display: auto;
-  src: local('Do Hyeon'),
-       url('#{$asset_url}/fonts/DoHyeon-Regular.ttf') format('truetype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
 
 /* Barcode Font */
 @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Extended&display=swap');
