@@ -17,5 +17,5 @@ Take your pick of souvenirs to bring home to your family from one of the many To
 
 Be you Biped, Triped, Arthropod, Sentient Gas Cloud, or any other configuration of life from within the Local galactic neighbourhood we have the facilities for you at Space Port™
 
-[^*]certain journeys can contain one or multiple[^**] layovers via Space Port™ terminals across the galaxy
-[^**]upto infinite layovers
+[^*]: certain journeys can contain one or multiple[^**] layovers via Space Port™ terminals across the galaxy
+[^**]: upto infinite layovers
