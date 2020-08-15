@@ -1,3 +1,10 @@
+/* Cindy Julia Header Font */
+@font-face {
+  font-family: 'Cindy Julia';
+  font-display: auto;
+  src: local('Cindy Julia'),
+       url('#{$asset_url}/fonts/CindyJulia.ttf') format('truetype'),      
+}
 
 /* Do Hyeon Body Font */
 @font-face {
@@ -7,10 +14,5 @@
        url('#{$asset_url}/fonts/DoHyeon-Regular.ttf') format('truetype');
 }
 
-/* Cindy Julia Header Font */
-@font-face {
-  font-family: 'Cindy Julia';
-  font-display: auto;
-  src: local('Cindy Julia'),
-       url('#{$asset_url}/fonts/CindyJulia.ttf') format('truetype'),      
-}
+/* Barcode Font */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Extended&display=swap');
