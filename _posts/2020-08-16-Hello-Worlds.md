@@ -5,8 +5,6 @@ author: "Bertrand Logan"
 categories: literature
 ---
 
-## Space Port™
-
 Welcome to the Neighbourhood new Galactic Citizen.
 
 your planet and by extension yourself has been selected as the site of a brand new **Space Port™** Interstellar Travel Hub.
@@ -23,5 +21,7 @@ More positions will be announced as they become available, await our contact.
 
 Welcome to the **Space Port™** family, we look forward to a long and prosperous partnership.
 
-Yours Sincerely
-Afli'W'op U`ansa'uwg' 
+Yours Sincerely\
+**Galactic CEO**\
+Urflifarp Argonono
+
