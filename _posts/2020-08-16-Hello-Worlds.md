@@ -7,7 +7,7 @@ categories: literature
 
 Welcome to the Neighbourhood new Galactic Citizen.
 
-your planet and by extension yourself has been selected as the site of a brand new **Space Port™** Interstellar Travel Hub.
+your planet has been selected as the site of a brand new **Space Port™** Interstellar Travel Hub.
 
 This Opportunity will provide your planet with widespread employment opportunities as we begin breaking ground on the development of several **Space Port™** terminals across your planet.
 
