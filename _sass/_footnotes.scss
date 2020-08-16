@@ -4,13 +4,10 @@
   display: inline;
   font-size: .75em;
   font-weight: 700;
-  padding: 0 .75em;
-  text-decoration: none;
-  margin: 0 .25em;
+  vertical-align: super;
   &:hover,
   &:focus {
-    background: $brand-color;
-    border-color: $brand-color;
+    color: $brand-color;
   }
 }
 
