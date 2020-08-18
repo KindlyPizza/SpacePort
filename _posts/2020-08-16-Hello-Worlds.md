@@ -20,9 +20,9 @@ First Flights to Destinations within the **Space Port™** Network will begin wi
 More positions will be announced as they become available, await our contact.
 
 Welcome to the **Space Port™** family, we look forward to a long and prosperous partnership.
-
-\
-Yours Sincerely\
-**Galactic CEO**\
+  
+  
+Yours Sincerely  
+**Galactic CEO**  
 Urflifarp Argonono
 
