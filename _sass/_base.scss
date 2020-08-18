@@ -1,5 +1,6 @@
 body {
   background: $brand-color;
+  background-image: url('#{$asset_url}/images/logo.png');
   color: $text-color;
   font-family: $bodyfont;
   font-size: 1.3125em;
