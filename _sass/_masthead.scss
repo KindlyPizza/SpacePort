@@ -2,6 +2,9 @@
   box-sizing: border-box;
   position: relative;
   text-align: center;
+  background-image: url('#{$asset_url}/images/Logo.png');
+  background-position: top left;
+  background-size: 25em;
 }
 
 .site-masthead h1 {
