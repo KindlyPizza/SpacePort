@@ -1,10 +1,9 @@
 body {
-  background: $brand-color;
+  background: $brand-color url(#{$asset_url}/images/logo.png) no-repeat top left;
   color: $text-color;
   font-family: $bodyfont;
   font-size: 1.3125em;
   line-height: 1.5;
-  background-image: url(#{$asset_url}/images/logo.png) no-repeat top left;
 }
 
 h1 {
